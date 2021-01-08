@@ -1,0 +1,354 @@
+header{overflow: hidden;width: 90%;padding: 50px 0px;margin: auto;}
+.logo{
+float: left; width: 20%;
+}
+nav{
+float: right; width: 60%;
+}
+nav ul{list-style: none;float:right;margin: 0px;}
+nav ul li{margin-left: 50px;float:left;color: #626262;text-transform: uppercase;}
+.banner{
+    width: 90%; margin: auto; font-size: 18px;
+}
+.banner img{
+    width: 100%
+}
+.photodiary{
+
+width: 80%;
+
+margin: auto;
+}
+.photodiary h6{
+
+margin: 0px;
+
+color: #b4ad9e;
+
+font-size: 14px;
+
+text-transform: uppercase;
+
+margin-top: 50px;
+
+font-family: sans-serif;
+}
+.photodiary h1{
+
+font-size: 34px;
+
+text-transform: capitalize;
+
+color: #6e6763;
+
+margin: 15px 0px;
+
+font-style: normal;
+
+margin: 30px 0px;
+}
+.photodiary p{
+    
+margin: 0px;
+    
+font-size: 18px;
+    
+color: #626262;
+    
+margin: 30px 0px;
+}
+.lifestyle1{overflow: hidden;width: 80%;margin: auto;margin-top: 100px;margin-bottom: 100px;}
+.life1{width: 47%;float: left;}
+.life1 img{
+    width: 100%
+}
+.life1 h6{
+    margin: 0px;
+
+    color: #b4ad9e;
+    
+    font-size: 14px;
+    
+    text-transform: uppercase;
+    
+    margin-top: 50px;
+    
+    font-family: sans-serif;
+    }
+.life1 h1{
+    font-size: 34px;
+    text-transform: capitalize;
+    color: #6e6763;
+    margin: 15px 0px;
+    font-style: normal;
+    margin: 30px 0px;
+}
+.life1 p{
+    margin: 0px;
+    font-size: 18px;
+    color: #626262;
+    margin: 30px 0px;
+}
+.life2{
+    width: 48%; float: right;
+}
+.life2 img{
+    width: 100%
+}
+.life2 h6{
+    margin: 0px;
+
+    color: #b4ad9e;
+    
+    font-size: 14px;
+    
+    text-transform: uppercase;
+    
+    margin-top: 50px;
+    
+    font-family: sans-serif;
+    }
+.life2 h1{
+    font-size: 34px;
+    text-transform: capitalize;
+    color: #6e6763;
+    margin: 15px 0px;
+    font-style: normal;
+    margin: 30px 0px;
+}
+.life2 p{
+    margin: 0px;
+    font-size: 18px;
+    color: #626262;
+    margin: 30px 0px;
+}
+.photodiary2{overflow: hidden;width: 80%;margin: auto;margin-bottom: 100px;}
+.photo1{
+    width: 47%;
+    float: left;
+}
+.photo1 img{
+    width: 100%
+}
+.photo1 h6{
+    margin: 0px;
+
+    color: #b4ad9e;
+    
+    font-size: 14px;
+    
+    text-transform: uppercase;
+    
+    margin-top: 50px;
+    
+    font-family: sans-serif;
+    }
+.photo1 h1{
+    font-size: 34px;
+    text-transform: capitalize;
+    color: #6e6763;
+    margin: 15px 0px;
+    font-style: normal;
+    margin: 30px 0px;
+}
+.photo1 p{
+    margin: 0px;
+    font-size: 18px;
+    color: #626262;
+    margin: 30px 0px;
+}
+.photo2{
+    width: 47%;
+    float: right;
+}
+.photo2 img{
+    width: 100%
+}
+.photo2 h6{
+    margin: 0px;
+
+    color: #b4ad9e;
+    
+    font-size: 14px;
+    
+    text-transform: uppercase;
+    
+    margin-top: 50px;
+    
+    font-family: sans-serif;
+    }
+.photo2 h1{
+    font-size: 34px;
+    text-transform: capitalize;
+    color: #6e6763;
+    margin: 15px 0px;
+    font-style: normal;
+    margin: 30px 0px;
+}
+.photo2 p{
+    margin: 0px;
+    font-size: 18px;
+    color: #626262;
+    margin: 30px 0px;
+}
+.newsletter{background-color: #f0f0f0;height: 100px;padding: 100px 0px;text-align: center;}
+.signup{
+
+color: #333333;
+
+width: 28%;
+
+margin: auto;
+
+position: relative;
+}
+.signup h1{
+    
+color: #6e6763;
+}
+.signup input{
+    
+width: 100%;
+    
+background: transparent;
+    
+border: none;
+    
+border-bottom: 1px solid #333333;
+}
+.signup img{
+    
+position: absolute;
+    
+right: 0;
+    
+bottom: 0;
+}
+.lifestyle2{
+    overflow: hidden;
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+    }
+    .life3{
+    width: 47%; float: left;
+    }
+    .life3 img{
+        width: 100%
+    }
+    .life3 h6{
+        margin: 0px;
+
+        color: #b4ad9e;
+        
+        font-size: 14px;
+        
+        text-transform: uppercase;
+        
+        margin-top: 50px;
+        
+        font-family: sans-serif;
+        }
+    .life3 h1{
+        font-size: 34px;
+        text-transform: capitalize;
+        color: #6e6763;
+        margin: 15px 0px;
+        font-style: normal;
+        margin: 30px 0px;
+    }
+    .life3 p{
+        margin: 0px;
+        font-size: 18px;
+        color: #626262;
+        margin: 30px 0px;
+    }
+    .life4{
+        width: 47%; float: right;
+    }
+    .life4 img{
+    width: 100%;
+    }
+    .life4 h6{
+        margin: 0px;
+
+        color: #b4ad9e;
+        
+        font-size: 14px;
+        
+        text-transform: uppercase;
+        
+        margin-top: 50px;
+        
+        font-family: sans-serif;
+        }
+    .life4 h1{
+        font-size: 34px;
+        text-transform: capitalize;
+        color: #6e6763;
+        margin: 15px 0px;
+        font-style: normal;
+        margin: 30px 0px;
+    }
+    .life4 p{
+        margin: 0px;
+        font-size: 18px;
+        color: #626262;
+        margin: 30px 0px;
+    }
+button{
+    
+background: transparent;
+    
+border: none;
+    
+border: 1px solid #626262;
+    
+padding: 20px 25px;
+    
+font-size: 20px;
+}
+.btn{text-align: center;padding: 150px 0px;}
+footer{
+    background-color: #f0f0f0;
+    padding: 50px 0px;
+}
+.footer_content{
+
+width: 80%;
+
+margin: auto;
+}
+.terms{overflow: hidden;float: left;}
+.terms ul{
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.terms ul li{
+  float: left;
+  margin-right: 20px;
+  color: #333333;
+  font-size: 18px;
+}
+.social{
+overflow: hidden;
+}
+.social ul{
+    float:right;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.social ul li{
+   float: left;
+   margin-right: 20px;
+   font-size: 18px;
+}
+.social ul li a{
+    
+color: #333333;
+    
+text-decoration: none;
+}
